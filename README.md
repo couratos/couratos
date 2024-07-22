@@ -1,0 +1,42 @@
+# Lista de Items para levar para Coura
+
+- Material individual
+- Saco de cama 
+- Colchonete/Colchão 
+- Almofada
+- Manta
+- Roupa
+- Roupa interior
+- Calçado e chinelos
+- Pijama
+- Chapéu 
+- Agasalho
+- Bikinis
+- Bijuteria
+- Óculos de sol
+- Prato, talheres e copo
+- Guardanapo de pano
+- Garrafa de água 
+- Champô 
+- Sabão
+- Copo menstrual 
+- Desodorizante 
+- Creme hidratante
+- Escova cabelo 
+- Escova de dentes
+- Pasta de dentes
+- Repelente 
+- Protetor solar
+- Toalha de banho
+- Toalha de praia
+- Carregador de telemóvel 
+- Power Bank
+- Máquina fotográfica
+- Lanterna
+- Livro
+- Preservativos 
+- Kit
+- Cartas
+- Tampões 
+- Medicação
+- BILHETE
