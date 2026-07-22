@@ -66,7 +66,7 @@ Nota: Esta lista poderá não servir para outros festivais
 * v2 (12-Jun-2025)
   Adicionado Boia, barco e maquilhagem para se estar bonita(o) no rio e duma maneira segura
 
-* v1 (2024?)
+* v1 (2019)
   Versão inicial
 
 # Instruções de uso
