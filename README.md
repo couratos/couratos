@@ -1,4 +1,4 @@
-# Lista de items para levar para Coura
+# Lista de items da Carolina para levar para Coura
 
 Nota: Esta lista poderá não servir para outros festivais
 
@@ -68,3 +68,13 @@ Nota: Esta lista poderá não servir para outros festivais
 
 * v1 (2024?)
   Versão inicial
+
+# Instruções de uso
+
+1. Assumindo que você tem o `git` instalado, abra um terminal e digite
+
+```bash
+git clone https://github.com/couratos/couratos.git
+```
+
+2. Use a lista
