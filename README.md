@@ -71,7 +71,7 @@ Nota: Esta lista poderá não servir para outros festivais
 
 # Instruções de uso
 
-1. Assumindo que você tem o `git` instalado, abra um terminal e digite
+1. Assumindo que tens o `git` instalado, abra um terminal e digite
 
 ```bash
 git clone https://github.com/couratos/couratos.git
